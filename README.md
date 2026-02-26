@@ -9,19 +9,16 @@ Our goal is to help students explore practical projects that match their academi
 
 ## 📂 Categories
 
-Projects are organized by degree programs, making it easy for students to find ideas relevant to their field of study:
+Projects are organized by degree programs, making it easy for students to find ideas relevant to their field of study.  
+Examples include (but are not limited to):
 
-- **B.Com Projects**  
-  Ideas and sample projects related to commerce, accounting, and finance.
+- Commerce and Management
+- Science and Mathematics
+- Computer Science and Technology
+- Arts and Humanities
+- Engineering and Professional Studies
 
-- **B.Sc Maths Projects**  
-  Projects involving mathematical modeling, statistics, and problem-solving.
-
-- **Computer Science Projects**  
-  Coding, automation, and web development projects.
-
-- **Other Degrees**  
-  More categories will be added as the repository grows.
+Each category contains project ideas and sample projects tailored to the skills and concepts taught in that discipline.
 
 ---
 
